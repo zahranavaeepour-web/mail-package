@@ -9,9 +9,6 @@ from email.utils import formatdate
 
 smtp_server ="smtp.gmail.com"
 port = 465
-#email_sender = "rose.wnd87@gmail.com"
-#pass_app ="tcwzborvxxkpsvig"
-#receiver = ["zahra.navaeepour@gmail.com" ]
 
 
 def config(sender,receiver,password):
