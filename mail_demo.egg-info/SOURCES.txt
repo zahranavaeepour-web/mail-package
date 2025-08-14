@@ -1,0 +1,8 @@
+setup.py
+mail_demo.egg-info/PKG-INFO
+mail_demo.egg-info/SOURCES.txt
+mail_demo.egg-info/dependency_links.txt
+mail_demo.egg-info/not-zip-safe
+mail_demo.egg-info/top_level.txt
+mail_package/__init__.py
+mail_package/mail.py
